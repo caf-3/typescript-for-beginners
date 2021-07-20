@@ -1,4 +1,4 @@
-const circl = (diameter: number) => {
+const circ = (diameter: number) => {
     return diameter * Math.PI;
 }
-console.log(circl(22))
+console.log(circ(22))
