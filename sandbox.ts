@@ -1,4 +1,4 @@
-const circ = (diameter: number) => {
-    return diameter * Math.PI;
-}
-console.log(circ(22))
+//arrays
+let data: [number];
+data.push(12)
+console.log(data)

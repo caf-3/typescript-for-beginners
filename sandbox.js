@@ -1,4 +1,4 @@
-var circ = function (diameter) {
-    return diameter * Math.PI;
-};
-console.log(circ(22));
+//arrays
+var data;
+data.push(12);
+console.log(data);
