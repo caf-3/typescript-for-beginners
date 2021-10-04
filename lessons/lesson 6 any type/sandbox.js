@@ -1,3 +1,4 @@
+"use strict";
 var age = 12;
 console.log(age);
 age = 'nothing';

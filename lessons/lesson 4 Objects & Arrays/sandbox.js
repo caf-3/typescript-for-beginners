@@ -1,3 +1,4 @@
+"use strict";
 //arrays
 var data;
 data.push(12);

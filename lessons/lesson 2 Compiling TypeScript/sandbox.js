@@ -1,3 +1,4 @@
+"use strict";
 var character = "Tomás Caetano";
 console.log(character);
 var inputs = document.querySelectorAll("input");

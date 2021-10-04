@@ -1,3 +1,4 @@
+"use strict";
 var greet;
 greet = function () {
     console.log('Void Telecom');

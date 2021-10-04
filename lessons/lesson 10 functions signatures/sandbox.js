@@ -1,3 +1,4 @@
+"use strict";
 // functions signatures
 var greet;
 greet = function (name, greeting) {
